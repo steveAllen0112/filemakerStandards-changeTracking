@@ -18,7 +18,7 @@ Commonly encountered environments where this is the case are:
 
 ## Developer's own "Good Manufacturing Practice"
 
-In addition to regulatory environments, it is simply good practice for a developer to maintain a log of what was done, and why, especially in a team environment.  Human memory is limited in capacity, and also faulty, so it is best to make records "in the heat of the moment", or, put another way, "while the iron is hot" -- that is, while the memory is fresh of all the reasons with their nuance that any particular decision and change was made.
+In addition to regulatory environments, it is simply good practice for a developer to maintain a log of what was done to a solution, when, and why, especially in a team environment.  Human memory is limited in capacity, and also faulty, so it is best to make records "in the heat of the moment", or, put another way, "while the iron is hot" -- that is, while the memory is fresh of all the reasons with their nuance that any particular decision and change was made.
 
 ## Teams and the "Bus Factor"
 
