@@ -1,4 +1,4 @@
-# FileMaker Standards: Tracking File Changes With Git
+# FileMaker Standards: Tracking Solution Changes
 
 ## The Problem
 
