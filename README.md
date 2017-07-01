@@ -27,6 +27,16 @@ This is especially true in the team environment, where the "primary developer" m
  - Increases Efficiency in Onboarding
  - Decreases Risk by Increasing ["Bus Factor"](https://en.wikipedia.org/wiki/Bus_factor)
 
+## Current Solutions
+
+### Comments
+
+Some of the aforementioned documentation is done in in-line comments, both in calculations, and in scripts, of course, for immediacy and availability.  But the larger picture should not be tracked in these isolated spaces.
+
+### Various hand-maintained logs
+
+Developers have so far used anything from Word documents to physical notepads and even other FileMaker Databases.  These vary in efficiency, but all require some amount of tedium, more or less.  Of course, any solution is going to require some hand work.  The goal, though, is to minimize it as much as possible, by using existing toolsets that automate as much of that as possible.
+
 ## A Proposed Solution
 
 A tool such as Git, particularly when paired with a served solution such as BitBucket or GitHub, should be central to any developer's implementation of change control and issue tracking strategies.  This is easily done for web work and documentation writing, and perhaps even for project planning and design, since often these files are text-based.
