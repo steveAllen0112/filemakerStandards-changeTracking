@@ -2,7 +2,7 @@
 
 ## The Problem
 
-Many, but not all, database engines and User Interfaces are programmed in text-based languages (SQL, JavaScript/HTML, etc.).  Whether they are compiled at runtime or beforehand, changes to these solutions are easily tracked and discussed using existing, industry-standard tooling, including Git.
+Many, but not all, database engines and User Interfaces are programmed in text-based languages (SQL, JavaScript/HTML, etc.).  Whether they are compiled at runtime or beforehand, changes to these solutions are easily tracked and discussed using existing, industry-standard tooling.
 
 Some platforms, however, are not text-based, and so these well-tested tools are not as easily applicable to track changes made as development occurs, and then in production as the solution owners' needs change.  FileMaker is found among this latter group.
 
