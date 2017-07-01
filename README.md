@@ -4,7 +4,7 @@
 
 Many, but not all, database engines and User Interfaces are programmed in text-based languages (SQL, JavaScript/HTML, etc.).  Whether they are compiled at runtime or beforehand, changes to these solutions are easily tracked and discussed using existing, industry-standard tooling.
 
-Some platforms, however, are not text-based, and so these well-tested tools are not as easily applicable to track changes made as development occurs, and then in production as the solution owners' needs change.  FileMaker is found among this latter group.
+Some platforms, however, are not text-based, so these well-tested tools are not as easily applicable to track changes made as development occurs, and then in production as the solution owners' needs change.  FileMaker is found among this latter group.
 
 Unfortunately, there are many cases where such tracking is desirable, and developers and clients alike would do well to identify the least painful way to leverage the existing toolsets as much as possible.
 
