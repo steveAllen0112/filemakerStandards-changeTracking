@@ -14,7 +14,8 @@ For example, in several regulated environments, most developers are already awar
 
 Commonly encountered environments where this is the case are:
  - HIPAA
- - CFR Part 11
+ - 21 CFR Part 11
+ - PCI
 
 ## Developer's own "Good Manufacturing Practice"
 
