@@ -1,12 +1,12 @@
-# FileMaker Standards: Tracking Solution Changes
+# FileMaker Standards: Change Management
 
 ## The Problem
 
-Many, but not all, database engines and User Interfaces are programmed in text-based languages (SQL, JavaScript/HTML, etc.).  Whether they are compiled at runtime or beforehand, changes to these solutions are easily tracked and discussed using existing, industry-standard tooling.
+Many, but not all, database engines and User Interfaces are programmed in text-based languages (SQL, JavaScript/HTML, etc.).  Whether they are compiled at runtime or beforehand, changes to these solutions are easily managed and discussed using existing, industry-standard tooling.  Changes can be tracked, merged, rolled forward and back, versioned, released, tagged, commented on, reviewed, etc. with ease.
 
-Some platforms, however, are not text-based, so these well-tested tools are not as easily applicable to track changes made as development occurs, and then in production as the solution owners' needs change.  FileMaker is found among this latter group.
+Some platforms, however, are not text-based, so these well-tested tools are not as easily applicable to changes made as development occurs, and then in production as the solution owners' needs change.  FileMaker is found among this latter group.  FileMaker changes can be tracked by outputting a Database Design Report (DDR) to the same directory as a "snapshot", then committing that, but since this cannot be re-compiled into a working solution, nor can the lines identified as "changed" be patched around to other versions of the database, this is of limited use.
 
-Unfortunately, there are many cases where such tracking is desirable, and developers and clients alike would do well to identify the least painful way to leverage the existing toolsets as much as possible.
+Unfortunately, there are many cases where such management is desirable, and developers and clients alike would do well to identify the least painful way to leverage the existing toolsets as much as possible.
 
 ## Possibly Applicable Regulatory Schemes
 
